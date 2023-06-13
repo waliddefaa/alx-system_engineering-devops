@@ -8,7 +8,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX School*
 		
 ## Technologies
 		
-* Scripts written in Bash)
+* Scripts written in Bash
 		
 * Tested on Ubuntu 20.04
 		
